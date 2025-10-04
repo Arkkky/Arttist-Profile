@@ -1,2 +1,2 @@
-# Arttist-Profile
+# Artist-Profile
 Artist Profile
